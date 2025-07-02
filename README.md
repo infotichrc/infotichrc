@@ -25,4 +25,3 @@ Contribuir a la modernización del Hospital Regional de Copiapó mediante soluci
 
 📍 **Ubicación**: Copiapó, Chile  
 🌐 **Sitio web institucional**: [https://hospitalcopiapo.cl](https://hospitalcopiapo.cl)
-🔐 **Repositorios privados** con proyectos internos del hospital
