@@ -1,16 +1,14 @@
-## Hola a todos 👋
-
----
-
 <!-- Puedes subir un GIF institucional o uno simple con temática de desarrollo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="GIF de programación">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJkY21reXV6Nm5xcm85MnlrMGI4YnYzdGw5enEzN204OXhsaGkwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="GIF de programación">
 </p>
 
 # Área de Desarrollo Informático
 **Hospital Regional de Copiapó**
 
 ---
+
+### Hola a todos 👋
 
 Somos una unidad dedicada al desarrollo de soluciones tecnológicas internas para optimizar procesos clínicos, administrativos y de gestión dentro del hospital.
 
@@ -26,5 +24,5 @@ Contribuir a la modernización del Hospital Regional de Copiapó mediante soluci
 ---
 
 📍 **Ubicación**: Copiapó, Chile  
-📧 **Correo de contacto**: infotichrc@hospitalcopiapo.cl *(o el que usen)*  
+📧 **Pagina web del hospital**: informaticahrc@redsalud.gob.cl 
 🔐 **Repositorios privados** con proyectos internos del hospital
